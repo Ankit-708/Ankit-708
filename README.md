@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ankit-708
-- 👀 I’m interested 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested learning new technologies and looking for the opportunity
+- 🌱 I’m familier with the Python, C, C++, HTML, CSS, Java Script, Django, Data Structure, object oriented programming, DBMS.
+- 💞️ I’m looking for the opportunity that helps to growth me in  my career.
+- 📫 vishwakarmaankit708@gmail.com
 
 <!---
 Ankit-708/Ankit-708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
